@@ -10,3 +10,8 @@
 ### 对于检测效率实时性的提升
 1. 高效得遍历点云的方法：[blog](https://blog.csdn.net/weixin_30482181/article/details/101291202)
 2. 点云并行加速计算方法：OpenMP, [GPU](https://github.com/PointCloudLibrary/pcl/blob/master/gpu/features/test/test_normals.cpp), CUDA
+
+## 数据通讯
+1. python socket通讯，[blog](https://blog.csdn.net/sinat_36645384/article/details/79128137)
+2. python读取软件存储的数据库
+3. modbus入门，[blog](http://www.elecfans.com/rengongzhineng/596297.html)
